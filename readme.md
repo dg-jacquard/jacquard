@@ -1,8 +1,5 @@
-# sindresorhus [![Build Status](https://travis-ci.org/sindresorhus/sindresorhus.svg?branch=master)](https://travis-ci.org/sindresorhus/sindresorhus)
 
-> The [Sindre Sorhus](https://sindresorhus.com) CLI
-
-<img src="screenshot.png" width="752">
+# [Dg Jacquard](https://github.com/jacquard) CLI
 
 
 ## Usage
@@ -10,7 +7,7 @@
 Install Node.js, then:
 
 ```
-$ npx sindresorhus
+$ npx jacquard
 ```
 
 
@@ -22,4 +19,5 @@ $ npx sindresorhus
 
 ## License
 
+Fork from: Sindre Sorhus
 MIT © [Sindre Sorhus](https://sindresorhus.com)
